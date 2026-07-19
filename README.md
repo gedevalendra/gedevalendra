@@ -12,7 +12,7 @@
 ### About Me
 I am an Informatics Engineering student at ITERA who is passionate about building practical solutions, from modern web applications to IoT integrations.
 
-### 💻 My Stack (On Learning)
+### 💻 My Stack
 
 **Frontend & Design**
 <p align="left">

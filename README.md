@@ -14,43 +14,35 @@ I am an Informatics Engineering student at ITERA who is passionate about buildin
 
 ### My Stack (On Learning)
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=next,ts,react,astro,nodejs,express,php,mongodb,tailwind,figma" alt="Tech Stack" />
 </p>
 
 ### Tools, Deployment & Optimization
 <p align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laragon-1E3A8A?style=for-the-badge&logo=laragon&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO-FF6F00?style=for-the-badge&logo=google-search-console&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=vercel,gcp,git,linux" alt="Tools" />
+  <br><br>
+  <!-- Sisa tools yang icon-nya spesifik pakai style flat-square biar tipis & minimalis -->
+  <img src="https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laragon-1E3A8A?style=flat-square&logo=laragon&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-FF6F00?style=flat-square&logo=google-search-console&logoColor=white" />
 </p>
 
 ### Projects
-- **[FunikIn](https://www.funikin.com)** – A modern web education platform with media conversion tools.
-- **Jejasata Lampung** – Digital web platform for tourism in Lampung province.
-- **PocoTracker** – A personal goal and routine tracking web application.
+<ul>
+  <li><b><a href="https://www.funikin.com">FunikIn</a></b> — A modern web education platform with media conversion tools.</li>
+  <li><b>Jejasata Lampung</b> — Digital web platform for tourism in Lampung province.</li>
+  <li><b>PocoTracker</b> — A personal goal and routine tracking web application.</li>
+</ul>
 
 ### Kontak
 <p align="left">
   <a href="https://instagram.com/gedevln12_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://github.com/gedevalendra" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/gedevalendra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>

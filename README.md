@@ -1,8 +1,13 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gede%20Valendra&fontSize=80&animation=fadeIn&fontAlignY=35" />
+
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gede Valendra
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3178C6&width=435&lines=Full-Stack+Developer;Informatics+Engineering+Student;Passionate+about+practical+solutions;IoT+%26+Hardware+Enthusiast" alt="Typing SVG" />
 </a>
+
+<!-- Sisa konten profil kamu (About Me, Stack, Projects, Kontak) -->
+
 
 ### About Me
 I am an Informatics Engineering student at ITERA who is passionate about building practical solutions, from modern web applications to IoT integrations.

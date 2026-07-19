@@ -37,11 +37,3 @@ I am an Informatics Engineering student at ITERA who is passionate about buildin
 </p>
 
 ---
-
-### 🚀 Projects
-
-<ul>
-  <li><b><a href="https://www.funikin.com">FunikIn</a></b> — A modern web education platform with media conversion tools.</li>
-  <li><b>Jejasata Lampung</b> — Digital web platform for tourism in Lampung province.</li>
-  <li><b>PocoTracker</b> — A personal goal and routine tracking web application.</li>
-</ul>

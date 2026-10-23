@@ -1,10 +1,5 @@
-Hi!
+Hi! <a href="https://instagram.com/gedevln12_">Touch Me!</a>
 
 ```bash
 Welcome To My Github
 ```
-[INFO] Touch Me!
-[!INFO] Touch Me!
-> [INFO] Touch Me!
-
-<a href="https://instagram.com/gedevln12_">Instagram</a>

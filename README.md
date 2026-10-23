@@ -3,8 +3,5 @@ Hi!
 ```bash
 Welcome To My Github
 ```
-Touch Me!
-```bash
-<a href="https://instagram.com/gedevln12_">Instagram</a>
-```
+<!INFO> Touch Me!
 <a href="https://instagram.com/gedevln12_">Instagram</a>
